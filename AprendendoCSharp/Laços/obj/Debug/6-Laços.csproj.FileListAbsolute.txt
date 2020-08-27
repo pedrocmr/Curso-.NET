@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\bin\Debug\Laços.exe.config
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\bin\Debug\Laços.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\bin\Debug\Laços.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\obj\Debug\6-Laços.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\obj\Debug\6-Laços.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\obj\Debug\Laços.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\Laços\obj\Debug\Laços.pdb

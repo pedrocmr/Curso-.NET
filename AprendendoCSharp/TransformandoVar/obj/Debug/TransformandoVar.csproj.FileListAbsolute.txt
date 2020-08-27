@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\bin\Debug\TransformandoVar.exe.config
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\bin\Debug\TransformandoVar.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\bin\Debug\TransformandoVar.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\obj\Debug\TransformandoVar.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\obj\Debug\TransformandoVar.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\obj\Debug\TransformandoVar.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\TransformandoVar\obj\Debug\TransformandoVar.pdb

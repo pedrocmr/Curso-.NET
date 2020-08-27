@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\bin\Debug\7-LaçosComFor.exe.config
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\bin\Debug\7-LaçosComFor.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\bin\Debug\7-LaçosComFor.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\obj\Debug\7-LaçosComFor.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\obj\Debug\7-LaçosComFor.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\obj\Debug\7-LaçosComFor.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-LaçosComFor\obj\Debug\7-LaçosComFor.pdb

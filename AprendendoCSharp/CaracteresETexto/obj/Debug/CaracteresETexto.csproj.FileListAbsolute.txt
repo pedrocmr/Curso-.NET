@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\bin\Debug\CaracteresETexto.exe.config
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\bin\Debug\CaracteresETexto.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\bin\Debug\CaracteresETexto.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\obj\Debug\CaracteresETexto.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\obj\Debug\CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\obj\Debug\CaracteresETexto.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\CaracteresETexto\obj\Debug\CaracteresETexto.pdb
